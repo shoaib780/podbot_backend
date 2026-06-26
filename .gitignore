@@ -1,0 +1,6 @@
+service_account.json
+app/service_account.json
+.env
+report_*.pdf
+uvicorn
+__pycache__/
